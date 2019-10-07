@@ -16,7 +16,7 @@ Using [AWS CloudFormation](https://aws.amazon.com/cloudformation/), we are going
 
 [AWS Config](https://aws.amazon.com/config/) is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. AWS Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations.
 
-1. Launch the CloudFormation Stack [Here](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Detective-Controls&templateURL=https://securityroadshowbucket.s3-ap-southeast-2.amazonaws.com/cloudtrail-config-guardduty.yaml) to setup the  environment
+1. Launch the CloudFormation Stack [Here](https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-1#/stacks/new?stackName=Detective-Controls&templateURL=https://securityroadshowbucket.s3-ap-southeast-2.amazonaws.com/cloudtrail-config-guardduty.yaml) to setup the  environment
 
 2. Enter the following details for each section:
   **General**
